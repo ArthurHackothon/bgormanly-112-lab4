@@ -59,4 +59,26 @@ typings/
 
 #Intellij
 .idea
-
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# Explicit paths specified without -i or -o; assuming --only paths...
+#
+# Committer: Arthur Noulas <arthurnoulas@148-100-168-128.FoxNet.marist.edu>
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#       new file:   .gitignore
+#
+# Untracked files:
+#       lab5-server.js
+#       package.json
+#
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+"~/lab5-server/.git/COMMIT_EDITMSG" 18L, 433C
